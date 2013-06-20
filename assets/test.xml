@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<site>
+	<domain>domain.co.uk</domain>
+	<core>7.24</core>
+	<moduleupdate>AHH</moduleupdate>
+	<moduleupdate>AHH</moduleupdate>
+	<moduleupdate>AHH</moduleupdate>
+	<moduleupdate>AHH</moduleupdate>
+	<module>Mod 1</module>
+	<module>Mod 2</module>
+	<module>Mod 3</module>
+	<module>Mod 4</module>
+	<module>Mod 5</module>
+</site>
